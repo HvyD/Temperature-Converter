@@ -1,7 +1,5 @@
 # Temperature-Converter
-Converts Celsius to Fahrenheit 
-
-'\n'
+###Converts Celsius to Fahrenheit 
 --using 
 #### Tensorflow
 ##### Basic Python
